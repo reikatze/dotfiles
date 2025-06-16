@@ -1,0 +1,22 @@
+setopt AUTO_CD
+
+setopt APPEND_HISTORY
+setopt EXTENDED_HISTORY
+setopt HIST_EXPIRE_DUPS_FIRST
+setopt HIST_FIND_NO_DUPS
+setopt HIST_IGNORE_ALL_DUPS
+setopt HIST_IGNORE_DUPS
+setopt HIST_IGNORE_SPACE
+setopt HIST_SAVE_NO_DUPS
+setopt SHARE_HISTORY
+
+unsetopt GLOBAL_RCS
+
+export XDG_CONFIG_HOME=${XDG_CONFIG_HOME:-$HOME/.config}
+export ZDOTDIR=${ZDOTDIR:-$XDG_CONFIG_HOME/zsh}
+export ZSHPLUGINS=${ZSHPLUGINS:-$ZDOTDIR/plugins}
+export HISTFILE=${HISTFILE:-$ZDOTDIR/.history}
+export HISTSIZE=5000
+export SAVEHIST=${HISTSIZE}
+
+export LS_COLORS="$(vivid generate one-dark)"

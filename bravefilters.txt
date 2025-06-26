@@ -3,37 +3,10 @@
 ! Description: Personal filter list for Brave
 ! Homepage: https://github.com/reikatze/dotfiles/
 ! Expires: 4 days (update frequency)
-! Version: 16 June 2025
 ! Syntax: AdBlock
 
-$subdocument,third-party@@||service.mtcaptcha.com,challenges.cloudflare.com
-$websocket
-www.reddit.com##shreddit-comment-action-row
-www.reddit.com##comment-composer-host
-www.reddit.com###create-post
-www.redditstatic.com/shreddit/en-US/shreddit-comment-action-row*
-www.redditstatic.com/shreddit/en-US/reddit-chat-client*
-www.redditstatic.com/shreddit/en-US/shreddit-mod-comment*
-www.redditstatic.com/shreddit/en-US/shreddit-comment-share-button*
-www.redditstatic.com/shreddit/en-US/ad-event-tracker*
-www.redditstatic.com/shreddit/en-US/pdp-ad-client-js*
-www.redditstatic.com/shreddit/en-US/with-ad-observer*
-www.redditstatic.com/shreddit/en-US/report*
-www.redditstatic.com/shreddit/en-US/blurredContent*
-www.redditstatic.com/shreddit/en-US/create-post-entry-point-wrapper*
 www.twitch.tv###one-tap-store-id
 www.twitch.tv###twilight-sticky-footer-root
+www.twitch.tv##.extensions-video-overlay-size-container
+www.twitch.tv##.extensions-dock__layout
 www.twitch.tv##.chat-input
-www.twitch.tv##.passthrough-events
-www.twitch.tv##.core-error
-assets.twitch.tv/assets/features.chat*
-assets.twitch.tv/assets/features.ads.components*
-assets.twitch.tv/assets/features.badges*
-assets.twitch.tv/assets/features.community-points*
-assets.twitch.tv/assets/features.video-player-core.components.video-ads*
-assets.twitch.tv/assets/features.channel-celebrations.components*
-assets.twitch.tv/assets/features.channel-goals.components*
-assets.twitch.tv/assets/features.guest-star*
-assets.twitch.tv/assets/features.one-tap*
-assets.twitch.tv/assets/pages.channel.components.channel-shell.components.chat-shell*
-assets.twitch.tv/assets/pages.channel.components.channel-shell.components.watch-page-track*

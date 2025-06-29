@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Title: 🔍 Brave Filter List
-! Description: Personal filter list for Brave
+! Title: 🔍 Custom Filter List
+! Description: Personal filter list
 ! Homepage: https://github.com/reikatze/dotfiles/
 ! Expires: 4 days (update frequency)
 ! Syntax: AdBlock

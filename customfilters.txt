@@ -5,6 +5,10 @@
 ! Expires: 4 days (update frequency)
 ! Syntax: AdBlock
 
+www.twitch.tv###twilight-sticky-footer-root
+www.twitch.tv##.extensions-dock__dock
+www.twitch.tv##.chat-input
+
 www.reddit.com##comment-body-header
 www.reddit.com##shreddit-comment-action-row
 www.reddit.com##div[data-testid="action-row"]

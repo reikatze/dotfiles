@@ -6,6 +6,7 @@
 ! Syntax: AdBlock
 
 www.twitch.tv###twilight-sticky-footer-root
+www.twitch.tv###one-tap-store-id
 www.twitch.tv##.extensions-dock__dock
 www.twitch.tv##.chat-input
 

@@ -11,6 +11,7 @@ www.twitch.tv##.extensions-video-overlay-size-container
 www.twitch.tv##.extensions-dock__layout
 www.twitch.tv##.chat-input
 www.twitch.tv##.player-overlay-background
+www.twitch.tv##.charity-avatar
 
 www.reddit.com##comment-body-header
 www.reddit.com##shreddit-comment-action-row

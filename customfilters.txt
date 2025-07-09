@@ -38,3 +38,6 @@ www.reddit.com##div[data-testid="action-row"]
 ! https://badblock.celenity.dev/hardened/block-page-visibility.txt
 *##+js(aeld, pagehide)
 *##+js(aeld, visibilitychange)
+*##+js(set, document.hasFocus, trueFunc)
+*##+js(set, document.hidden, false)
+*##+js(trusted-set, document.visibilityState, json:"visible")

@@ -34,3 +34,7 @@ www.reddit.com##div[data-testid="action-row"]
 
 ! https://github.com/thedoggybrad/Frame-Blocker-Filter
 *$subdocument,third-party,domain=~facebook.com|~instagram.com|~meta.com|~twitter.com|~youtube.com|~tiktok.com|~pinterest.com|~reddit.com|~quora.com|~linkedin.com|~tumblr.com|~flickr.com|~vimeo.com|~wattpad.com|~google.com
+
+! https://badblock.celenity.dev/hardened/block-page-visibility.txt
+*##+js(aeld, pagehide)
+*##+js(aeld, visibilitychange)

@@ -40,4 +40,3 @@ www.reddit.com##div[data-testid="action-row"]
 *##+js(aeld, visibilitychange)
 *##+js(set, document.hasFocus, trueFunc)
 *##+js(set, document.hidden, false)
-*##+js(trusted-set, document.visibilityState, visible)

@@ -11,6 +11,7 @@ www.twitch.tv##.extensions-dock__dock
 www.twitch.tv##.chat-input
 www.twitch.tv##div[aria-labelledby="charity-donate-button-popover-header"]
 www.twitch.tv##div[aria-label="Support with Combos"]
+www.twitch.tv##iframe
 
 www.reddit.com##comment-body-header
 www.reddit.com##shreddit-comment-action-row

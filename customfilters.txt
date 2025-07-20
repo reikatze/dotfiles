@@ -70,4 +70,3 @@ www.redditstatic.com/shreddit/en-US/scroll-blocker*
 www.redditstatic.com/shreddit/en-US/awards*
 www.redditstatic.com/shreddit/en-US/comment-preview-unit-client*
 www.redditstatic.com/shreddit/en-US/comment-link-post-client*
-www.redditstatic.com/shreddit/en-US/shreddit-comment-share-button*

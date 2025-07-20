@@ -9,6 +9,7 @@ www.twitch.tv###twilight-sticky-footer-root
 www.twitch.tv###one-tap-store-id
 www.twitch.tv##.extensions-dock__dock
 www.twitch.tv##.chat-input
+www.twitch.tv##.core-error
 www.twitch.tv##div[aria-labelledby="charity-donate-button-popover-header"]
 www.twitch.tv##div[aria-label="Support with Combos"]
 www.twitch.tv##iframe

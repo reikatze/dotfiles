@@ -56,7 +56,4 @@ assets.twitch.tv/assets/features.bits*
 assets.twitch.tv/assets/features.emote-picker*
 assets.twitch.tv/assets/features.upsell-bottom-banner*
 assets.twitch.tv/assets/features.verify-email*
-www.redditstatic.com/shreddit/en-US/feed-ad-client*
-www.redditstatic.com/shreddit/en-US/ad-event-tracker*
-www.redditstatic.com/shreddit/en-US/with-ad-observer*
-www.redditstatic.com/shreddit/en-US/ads-carousel*
+

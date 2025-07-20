@@ -58,7 +58,6 @@ assets.twitch.tv/assets/features.upsell-bottom-banner*
 assets.twitch.tv/assets/features.verify-email*
 www.redditstatic.com/shreddit/en-US/nsfw-bypassable-modal-client*
 www.redditstatic.com/shreddit/en-US/feed-ad-client*
-www.redditstatic.com/shreddit/en-US/chat-channel-feed-element-client*
 www.redditstatic.com/shreddit/en-US/qr-code-persistent-button-upsell-client*
 www.redditstatic.com/shreddit/en-US/age-gate-standalone-client*
 www.redditstatic.com/shreddit/en-US/chat-mobile-xpromo-client*
@@ -67,6 +66,3 @@ www.redditstatic.com/shreddit/en-US/with-ad-observer*
 www.redditstatic.com/shreddit/en-US/ads-carousel*
 www.redditstatic.com/shreddit/en-US/blurredContent*
 www.redditstatic.com/shreddit/en-US/scroll-blocker*
-www.redditstatic.com/shreddit/en-US/awards*
-www.redditstatic.com/shreddit/en-US/comment-preview-unit-client*
-www.redditstatic.com/shreddit/en-US/comment-link-post-client*

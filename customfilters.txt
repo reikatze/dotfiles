@@ -2,7 +2,7 @@
 ! Title: 🔍 Custom Filter List
 ! Description: Personal filter list
 ! Homepage: https://github.com/reikatze/dotfiles/
-! Expires: 4 days (update frequency)
+! Expires: 1 day (update frequency)
 ! Syntax: AdBlock
 
 www.twitch.tv###twilight-sticky-footer-root
@@ -41,19 +41,4 @@ www.reddit.com##div[data-testid="action-row"]
 *##+js(aeld, visibilitychange)
 *##+js(set, document.hasFocus, trueFunc)
 *##+js(set, document.hidden, false)
-
-! assets
-assets.twitch.tv/assets/features.chat*
-assets.twitch.tv/assets/features.paid-pinned-chat*
-assets.twitch.tv/assets/features.badges*
-assets.twitch.tv/assets/features.one-tap.components*
-assets.twitch.tv/assets/features.ads*
-assets.twitch.tv/assets/features.channel-celebrations*
-assets.twitch.tv/assets/features.channel-goals*
-assets.twitch.tv/assets/features.community-points*
-assets.twitch.tv/assets/features.whispers*
-assets.twitch.tv/assets/features.bits*
-assets.twitch.tv/assets/features.emote-picker*
-assets.twitch.tv/assets/features.upsell-bottom-banner*
-assets.twitch.tv/assets/features.verify-email*
 

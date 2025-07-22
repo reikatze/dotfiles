@@ -41,3 +41,6 @@ www.reddit.com##div[data-testid="action-row"]
 *##+js(aeld, visibilitychange)
 *##+js(set, document.hasFocus, trueFunc)
 *##+js(set, document.hidden, false)
+
+! font exceptions
+@@||fonts.gstatic.com^$domain=examsoft.com|www.turnitin.com

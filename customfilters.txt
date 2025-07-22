@@ -41,13 +41,3 @@ www.reddit.com##div[data-testid="action-row"]
 *##+js(aeld, visibilitychange)
 *##+js(set, document.hasFocus, trueFunc)
 *##+js(set, document.hidden, false)
-
-! https://badblock.celenity.dev/hardened/block-svg.txt
-.svg^$important
-.svg^$important,from=~turnitindev.e-spirit.hosting|~turnitin.e-spirit.hosting|~turnitinqa.e-spirit.hosting
-
-! https://badblock.celenity.dev/hardened/block-webgl.txt
-*##+js(prevent-canvas, /webgl/)
-
-! https://badblock.celenity.dev/hardened/block-webgpu.txt
-*##+js(prevent-canvas, /webgpu/)

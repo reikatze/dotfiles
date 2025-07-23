@@ -43,4 +43,4 @@ www.reddit.com##div[data-testid="action-row"]
 *##+js(set, document.hidden, false)
 
 ! font exceptions
-@@||fonts.gstatic.com^$domain=examsoft.com|www.turnitin.com
+@@||fonts.gstatic.com^$domain=examsoft.com|www.turnitin.com|coserv.smarthub.coop

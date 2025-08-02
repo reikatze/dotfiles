@@ -16,6 +16,7 @@ www.twitch.tv##iframe
 
 www.reddit.com##comment-body-header
 www.reddit.com##shreddit-comment-action-row
+www.reddit.com##shreddit-join-button
 www.reddit.com##div[data-testid="action-row"]
 
 ! https://codeberg.org/celenity/ublock-origin-settings

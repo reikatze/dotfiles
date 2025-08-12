@@ -19,7 +19,6 @@ www.reddit.com##shreddit-comment-action-row
 www.reddit.com##shreddit-join-button
 www.reddit.com##div[data-testid="action-row"]
 
-! https://codeberg.org/celenity/ublock-origin-settings
 ||doubleclick.net^$important
 ||google-analytics.com^$important
 ||facebook.com^$important,third-party
@@ -41,13 +40,7 @@ www.reddit.com##div[data-testid="action-row"]
 *##+js(aeld, visibilitychange)
 *##+js(set, document.hasFocus, trueFunc)
 *##+js(set, document.hidden, false)
-
 *##+js(prevent-canvas, experimental-webgl)
 *##+js(prevent-canvas, webgl)
 *##+js(prevent-canvas, webgl2)
-*##+js(trusted-suppress-native-method, OffscreenCanvas.prototype.getContext, '"experimental-webgl"', abort)
-*##+js(trusted-suppress-native-method, OffscreenCanvas.prototype.getContext, '"webgl"', abort)
-*##+js(trusted-suppress-native-method, OffscreenCanvas.prototype.getContext, '"webgl2"', abort)
-
 *##+js(prevent-canvas, webgpu)
-*##+js(trusted-suppress-native-method, OffscreenCanvas.prototype.getContext, '"webgpu"', abort)

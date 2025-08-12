@@ -46,8 +46,10 @@ www.reddit.com##div[data-testid="action-row"]
 *##+js(prevent-canvas, webgpu)
 *##+js(set, navigator.sendBeacon, falseFunc)
 
-@@||*$third-party,subdocument,domain=~reddit.com|~youtube.com
-@@||www.google.com/recaptcha/$third-party,subdocument
-@@||www.gstatic.com/recaptcha/$third-party,script
+||*$third-party,subdocument
+@@||www.google.com/recaptcha/$third-party,script,frame
+@@||www.gstatic.com/recaptcha/$third-party,script,frame
 @@||challenges.cloudflare.com/cdn-cgi/challenge-platform/$third-party,script,frame
 @@||www.youtube.com/embed/$third-party,script,frame
+@@||cdn.embedly.com/widgets/$third-party,script,frame
+@@||streamable.com/o/$third-party,script,frame

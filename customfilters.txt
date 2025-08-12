@@ -37,8 +37,17 @@ www.reddit.com##div[data-testid="action-row"]
 @@||appleid.apple.com^$domain=appleid.cdn-apple.com
 @@||appleid.cdn-apple.com^$domain=appleid.apple.com
 
-! https://badblock.celenity.dev/hardened/block-page-visibility.txt
 *##+js(aeld, pagehide)
 *##+js(aeld, visibilitychange)
 *##+js(set, document.hasFocus, trueFunc)
 *##+js(set, document.hidden, false)
+
+*##+js(prevent-canvas, experimental-webgl)
+*##+js(prevent-canvas, webgl)
+*##+js(prevent-canvas, webgl2)
+*##+js(trusted-suppress-native-method, OffscreenCanvas.prototype.getContext, '"experimental-webgl"', abort)
+*##+js(trusted-suppress-native-method, OffscreenCanvas.prototype.getContext, '"webgl"', abort)
+*##+js(trusted-suppress-native-method, OffscreenCanvas.prototype.getContext, '"webgl2"', abort)
+
+*##+js(prevent-canvas, webgpu)
+*##+js(trusted-suppress-native-method, OffscreenCanvas.prototype.getContext, '"webgpu"', abort)

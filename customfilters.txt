@@ -46,7 +46,7 @@ www.reddit.com##div[data-testid="action-row"]
 *##+js(prevent-canvas, webgpu)
 *##+js(set, navigator.sendBeacon, falseFunc)
 
-*$third-party,subdocument,domain=~reddit.com|~youtube.com
+@@||*$third-party,subdocument,domain=~reddit.com|~youtube.com
 @@||www.google.com/recaptcha/$third-party,subdocument
 @@||www.gstatic.com/recaptcha/$third-party,script
 @@||challenges.cloudflare.com/cdn-cgi/challenge-platform/$third-party,script,frame

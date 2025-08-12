@@ -44,3 +44,4 @@ www.reddit.com##div[data-testid="action-row"]
 *##+js(prevent-canvas, webgl)
 *##+js(prevent-canvas, webgl2)
 *##+js(prevent-canvas, webgpu)
+*##+js(set, navigator.sendBeacon, falseFunc)

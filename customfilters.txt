@@ -53,3 +53,4 @@ www.reddit.com##div[slot="actionRow"]
 @@||www.youtube.com/embed/$third-party,script,frame
 @@||cdn.embedly.com/widgets/$third-party,script,frame
 @@||streamable.com/o/$third-party,script,frame
+@@||www.redgifs.com/ifr/$third-party,script,frame

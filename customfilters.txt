@@ -55,4 +55,4 @@ www.reddit.com##div[slot="actionRow"]
 @@||streamable.com/o/$third-party,script,frame
 @@||www.redgifs.com/ifr/$third-party,script,frame
 
-@@||fonts.gstatic.com/s/$font,domain=www.google.com|maps.google.com
+@@||fonts.gstatic.com/$font,domain=www.google.com|maps.google.com

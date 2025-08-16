@@ -43,6 +43,8 @@ www.reddit.com##div[slot="actionRow"]
 *##+js(prevent-canvas, experimental-webgl)
 *##+js(prevent-canvas, webgl)
 *##+js(prevent-canvas, webgl2)
+pathbuilder2e.com#@#+js(prevent-canvas, webgl)
+pathbuilder2e.com#@#+js(prevent-canvas, webgl2)
 *##+js(prevent-canvas, webgpu)
 *##+js(set, navigator.sendBeacon, falseFunc)
 

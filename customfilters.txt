@@ -53,9 +53,10 @@ pathbuilder2e.com#@#+js(prevent-canvas, webgl2)
 @@||www.google.com/recaptcha/$third-party,script,frame,xhr,image
 @@||www.gstatic.com/recaptcha/$third-party,script,frame,xhr,image
 @@||challenges.cloudflare.com/$third-party,script,frame,xhr,image
-@@||www.youtube.com/embed/$third-party,script,frame
-@@||cdn.embedly.com/widgets/$third-party,script,frame
-@@||streamable.com/o/$third-party,script,frame
-@@||www.redgifs.com/ifr/$third-party,script,frame
+@@||www.youtube.com/embed/$third-party,script,frame,xhr,image
+@@||cdn.embedly.com/widgets/$third-party,script,frame,xhr,image
+@@||streamable.com/o/$third-party,script,frame,xhr,image
+@@||www.redgifs.com/ifr/$third-party,script,frame,xhr,image
+@@||js.stripe.com$third-party,script,frame,xhr,image
 
 @@||fonts.gstatic.com$domain=maps.google.com

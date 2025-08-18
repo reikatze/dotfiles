@@ -18,6 +18,7 @@ www.reddit.com##shreddit-comment-action-row
 www.reddit.com##shreddit-join-button
 www.reddit.com##div[data-testid="action-row"]
 www.reddit.com##div[slot="actionRow"]
+www.reddit.com###answers-suggested-queries-m3
 
 ||doubleclick.net^$important
 ||google-analytics.com^$important

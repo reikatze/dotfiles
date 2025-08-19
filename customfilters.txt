@@ -58,6 +58,5 @@ pathbuilder2e.com#@#+js(prevent-canvas, webgl2)
 @@||streamable.com/o/$third-party,script,frame,xhr,image
 @@||www.redgifs.com/ifr/$third-party,script,frame,xhr,image
 @@||js.stripe.com$third-party,script,frame,xhr,image
-@@||m.stripe.network$third-party,script,frame,xhr,image
 
 @@||fonts.gstatic.com$domain=maps.google.com

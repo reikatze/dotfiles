@@ -49,4 +49,4 @@ pathbuilder2e.com#@#+js(prevent-canvas, webgl2)
 *##+js(prevent-canvas, webgpu)
 *##+js(set, navigator.sendBeacon, falseFunc)
 
-@@||fonts.gstatic.com$domain=maps.google.com
+@@||fonts.googleapis.com^$stylesheet,domain=kanary.com

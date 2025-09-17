@@ -37,12 +37,3 @@ www.reddit.com###answers-suggested-queries-m3
 @@||accounts.google.com^$domain=youtube.com|chromium.org|gstatic.com|googleusercontent.com
 @@||appleid.apple.com^$domain=appleid.cdn-apple.com
 @@||appleid.cdn-apple.com^$domain=appleid.apple.com
-
-*##+js(aeld, pagehide)
-*##+js(aeld, visibilitychange)
-*##+js(aeld, webkitvisibilitychange)
-*##+js(set, document.hasFocus, true)
-*##+js(set, document.hidden, false)
-*##+js(set, document.visibilityState, true)
-
-*##+js(set, navigator.sendBeacon, false)

@@ -43,6 +43,6 @@ www.reddit.com###answers-suggested-queries-m3
 *##+js(aeld, webkitvisibilitychange)
 *##+js(set, document.hasFocus, true)
 *##+js(set, document.hidden, false)
-*##+js(trusted-set, document.visibilityState, "visible")
+*##+js(set, document.visibilityState, true)
 
 *##+js(set, navigator.sendBeacon, false)

@@ -40,6 +40,8 @@ www.reddit.com###answers-suggested-queries-m3
 
 *##+js(aeld, pagehide)
 *##+js(aeld, visibilitychange)
+*##+js(aeld, webkitvisibilitychange)
+*##+js(aeld, blur)
 *##+js(set, document.hasFocus, trueFunc)
-*##+js(set, document.hidden, false)
+*##+js(set, document.hidden, falseFunc)
 *##+js(set, navigator.sendBeacon, falseFunc)

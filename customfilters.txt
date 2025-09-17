@@ -42,12 +42,4 @@ www.reddit.com###answers-suggested-queries-m3
 *##+js(aeld, visibilitychange)
 *##+js(set, document.hasFocus, trueFunc)
 *##+js(set, document.hidden, false)
-*##+js(prevent-canvas, experimental-webgl)
-*##+js(prevent-canvas, webgl)
-*##+js(prevent-canvas, webgl2)
-pathbuilder2e.com#@#+js(prevent-canvas, webgl)
-pathbuilder2e.com#@#+js(prevent-canvas, webgl2)
-*##+js(prevent-canvas, webgpu)
 *##+js(set, navigator.sendBeacon, falseFunc)
-
-@@||fonts.googleapis.com^$stylesheet,domain=kanary.com

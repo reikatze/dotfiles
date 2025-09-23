@@ -21,6 +21,8 @@ www.reddit.com##div[data-testid="action-row"]
 www.reddit.com##div[slot="actionRow"]
 www.reddit.com###answers-suggested-queries-m3
 
+turnitin.okta.com##.okta-personal-dashboard-banner
+
 ||doubleclick.net^$important
 ||google-analytics.com^$important
 ||facebook.com^$important,third-party

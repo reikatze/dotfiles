@@ -29,9 +29,6 @@ www.youtube.com##ytd-comment-simplebox-renderer
 
 turnitin.okta.com##.okta-personal-dashboard-banner
 
-my.kinsta.com https://widget.intercom.io script allow
-www.figma.com https://www.figma.com/api/figment-proxy/ xmlhttprequest allow
-
 ||doubleclick.net^$important
 ||google-analytics.com^$important
 ||facebook.com^$important,third-party

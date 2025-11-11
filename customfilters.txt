@@ -25,6 +25,7 @@ www.youtube.com###sponsor-button
 www.youtube.com###action-buttons
 www.youtube.com###subscribe-button
 www.youtube.com###actions
+www.youtube.com##ytd-comment-simplebox-renderer
 
 turnitin.okta.com##.okta-personal-dashboard-banner
 

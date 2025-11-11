@@ -21,6 +21,11 @@ www.reddit.com##div[data-testid="action-row"]
 www.reddit.com##div[slot="actionRow"]
 www.reddit.com###answers-suggested-queries-m3
 
+www.youtube.com###sponsor-button
+www.youtube.com###action-buttons
+www.youtube.com###subscribe-button
+www.youtube.com###actions
+
 turnitin.okta.com##.okta-personal-dashboard-banner
 
 ||doubleclick.net^$important

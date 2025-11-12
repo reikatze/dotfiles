@@ -31,17 +31,17 @@ turnitin.okta.com##.okta-personal-dashboard-banner
 
 ||doubleclick.net^$important
 ||google-analytics.com^$important
+
 ||facebook.com^$important,third-party
 ||facebook.net^$important,third-party
 ||linkedin.com^$important,third-party
 ||instagram.com^$important,third-party
 ||tiktok.com^$important,third-party
-||twitter.com^$third-party
+||twitter.com^$third-party,domain=~x.com
 ||x.com^$third-party
+
 ||gravatar.com^$important,third-party
-||accounts.google.com^$third-party
-||appleid.apple.com^$third-party
-||appleid.cdn-apple.com^$third-party
-@@||accounts.google.com^$domain=youtube.com|chromium.org|gstatic.com|googleusercontent.com
-@@||appleid.apple.com^$domain=appleid.cdn-apple.com
-@@||appleid.cdn-apple.com^$domain=appleid.apple.com
+
+||accounts.google.com^$third-party,domain=~chromium.org|~gstatic.com|~googleusercontent.com|~youtube.com
+||appleid.apple.com^$third-party,domain=~appleid.cdn-apple.com
+||appleid.cdn-apple.com^$third-party,domain=~appleid.apple.com

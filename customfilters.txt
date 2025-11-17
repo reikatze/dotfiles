@@ -30,6 +30,7 @@ www.youtube.com###actions
 www.youtube.com##ytd-comment-simplebox-renderer
 
 turnitin.okta.com##.okta-personal-dashboard-banner
+turnitin.okta.com##.plugin-banner
 
 ||doubleclick.net^$important
 ||google-analytics.com^$important

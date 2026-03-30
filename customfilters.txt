@@ -51,7 +51,7 @@ app.crowdsec.net###header-bands
 ||appleid.apple.com^$third-party,domain=~appleid.cdn-apple.com
 ||appleid.cdn-apple.com^$third-party,domain=~appleid.apple.com
 
-*$subdocument,third-party,domain=~youtube.com|~youtu.be
+*$subdocument,third-party,domain=~youtube.com|~youtu.be|~challenges.cloudflare.com|~recaptcha.net
 
 *##+js(set, navigator.sendBeacon, falseFunc)
 *##+js(set, navigator.globalPrivacyControl, true)

@@ -44,15 +44,15 @@ turnitin.okta.com##.plugin-banner
 ||tiktok.com^$important,third-party
 ||twitter.com^$third-party,domain=~x.com
 ||x.com^$third-party
-
 ||gravatar.com^$important,third-party
-
 ||accounts.google.com^$third-party,domain=~chromium.org|~gstatic.com|~googleusercontent.com|~youtube.com
 ||appleid.apple.com^$third-party,domain=~appleid.cdn-apple.com
 ||appleid.cdn-apple.com^$third-party,domain=~appleid.apple.com
 
 *$subdocument,third-party
 @@||www.recaptcha.net/recaptcha/$subdocument
+@@||js.stripe.com^$subdocument
+@@||b.stripecdn.com^$subdocument,domain=js.stripe.com
 
 *##+js(set, navigator.sendBeacon, falseFunc)
 *##+js(set, navigator.globalPrivacyControl, true)

@@ -22,7 +22,6 @@ www.reddit.com##shreddit-join-button
 www.reddit.com##div[data-testid="action-row"]
 www.reddit.com##div[slot="actionRow"]
 www.reddit.com###answers-suggested-queries-m3
-www.reddit.com##unpacking-overflow-menu
 www.reddit.com##shreddit-vote-animations
 
 www.youtube.com###sponsor-button

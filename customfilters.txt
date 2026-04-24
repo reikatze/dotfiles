@@ -35,7 +35,6 @@ turnitin.okta.com##.plugin-banner
 
 ||doubleclick.net^$important
 ||google-analytics.com^$important
-
 ||facebook.com^$important,third-party
 ||facebook.net^$important,third-party
 ||linkedin.com^$important,third-party
@@ -53,7 +52,7 @@ turnitin.okta.com##.plugin-banner
 @@||challenges.cloudflare.com^$subdocument
 @@||js.stripe.com^$subdocument
 @@||b.stripecdn.com^$subdocument,domain=js.stripe.com
-@@||www.fbsbx.com/captcha/$subdocument,domain=www.facebook.com
+@@||www.fbsbx.com^$subdocument,domain=www.facebook.com
 
 *##+js(set, navigator.sendBeacon, falseFunc)
 *##+js(set, navigator.globalPrivacyControl, true)

@@ -53,6 +53,7 @@ turnitin.okta.com##.plugin-banner
 @@||js.stripe.com^$subdocument
 @@||b.stripecdn.com^$subdocument,domain=js.stripe.com
 @@||www.fbsbx.com^$subdocument,domain=www.facebook.com
+@@||dontplantoend-ugi-leaderboard.hf.space^$subdocument,domain=huggingface.co
 
 *##+js(set, navigator.sendBeacon, falseFunc)
 *##+js(set, navigator.globalPrivacyControl, true)

@@ -54,6 +54,7 @@ turnitin.okta.com##.plugin-banner
 @@||b.stripecdn.com^$subdocument,domain=js.stripe.com
 @@||www.fbsbx.com^$subdocument,domain=www.facebook.com
 @@||dontplantoend-ugi-leaderboard.hf.space^$subdocument,domain=huggingface.co
+@@||mail-attachment.googleusercontent.com^$subdocument,domain=mail.google.com
 
 *##+js(set, navigator.sendBeacon, falseFunc)
 *##+js(set, navigator.globalPrivacyControl, true)

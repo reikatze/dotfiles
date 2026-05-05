@@ -33,6 +33,8 @@ www.youtube.com##ytd-comment-simplebox-renderer
 turnitin.okta.com##.okta-personal-dashboard-banner
 turnitin.okta.com##.plugin-banner
 
+@@||crownpeak.com^
+
 ||doubleclick.net^$important
 ||google-analytics.com^$important
 ||facebook.com^$important,third-party

@@ -30,6 +30,9 @@ www.reddit.com##alert-controller
 reddit.com##+js(json-edit-fetch-request, ..info, propsToMatch, /svc/shreddit/events)
 ||www.reddit.com/sw.js$script,domain=www.reddit.com
 ||gql-realtime.reddit.com^$websocket,domain=www.reddit.com
+||www.reddit.com/svc/shreddit/reddit-chat$xhr,domain=www.reddit.com
+||www.reddit.com/svc/shreddit/header-action-item-inbox$xhr,domain=www.reddit.com
+||www.reddit.com/svc/shreddit/header-action-item-chat$xhr,domain=www.reddit.com
 
 www.youtube.com###sponsor-button
 www.youtube.com###action-buttons

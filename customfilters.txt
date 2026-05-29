@@ -26,6 +26,8 @@ www.reddit.com##div[data-testid="action-row"]
 www.reddit.com##div[slot="actionRow"]
 www.reddit.com###answers-suggested-queries-m3
 www.reddit.com##shreddit-vote-animations
+||www.reddit.com/svc/shreddit/events$xhr,domain=www.reddit.com
+||www.reddit.com/sw.js$script,domain=www.reddit.com
 
 www.youtube.com###sponsor-button
 www.youtube.com###action-buttons

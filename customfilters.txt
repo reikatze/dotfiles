@@ -15,6 +15,9 @@ www.twitch.tv##.community-highlight-stack__scroll-area--disable
 www.twitch.tv##.community-highlight-stack__backlog-card
 www.twitch.tv##div[aria-labelledby="charity-donate-button-popover-header"]
 www.twitch.tv##div[aria-label="Support with Combos"]
+||irc-ws.chat.twitch.tv^$websocket,domain=www.twitch.tv
+||assets.twitch.tv/assets/features.chat.components.chat-input.components.wysiwyg-chat-input.component-*.js$script,domain=www.twitch.tv
+||assets.twitch.tv/assets/pages.channel.components.channel-shell.components.chat-shell.components.chat-live-*.js$script,domain=www.twitch.tv
 
 www.reddit.com##comment-body-header
 www.reddit.com##shreddit-comment-action-row

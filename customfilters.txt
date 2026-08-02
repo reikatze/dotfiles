@@ -43,6 +43,9 @@ www.youtube.com##ytd-comment-simplebox-renderer
 turnitin.okta.com##.okta-personal-dashboard-banner
 turnitin.okta.com##.plugin-banner
 
+xn--*
+xn--*$doc,popup,frame
+
 @@||crownpeak.com^
 
 ||doubleclick.net^$important
@@ -59,14 +62,14 @@ turnitin.okta.com##.plugin-banner
 ||appleid.apple.com^$third-party,domain=~appleid.cdn-apple.com
 ||appleid.cdn-apple.com^$third-party,domain=~appleid.apple.com
 
-! *$subdocument,third-party
-! @@||www.recaptcha.net^$subdocument
-! @@||challenges.cloudflare.com^$subdocument
-! @@||js.stripe.com^$subdocument
-! @@||b.stripecdn.com^$subdocument,domain=js.stripe.com
-! @@||www.fbsbx.com^$subdocument,domain=www.facebook.com
-! @@||dontplantoend-ugi-leaderboard.hf.space^$subdocument,domain=huggingface.co
-! @@||mail-attachment.googleusercontent.com^$subdocument,domain=mail.google.com
+*$subdocument,third-party
+@@||www.recaptcha.net^$subdocument
+@@||challenges.cloudflare.com^$subdocument
+@@||js.stripe.com^$subdocument
+@@||b.stripecdn.com^$subdocument,domain=js.stripe.com
+@@||www.fbsbx.com^$subdocument,domain=www.facebook.com
+@@||dontplantoend-ugi-leaderboard.hf.space^$subdocument,domain=huggingface.co
+@@||mail-attachment.googleusercontent.com^$subdocument,domain=mail.google.com
 
 *##+js(set, navigator.sendBeacon, falseFunc)
 *##+js(set, navigator.globalPrivacyControl, true)

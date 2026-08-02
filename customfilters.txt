@@ -8,6 +8,7 @@
 www.twitch.tv###twilight-sticky-footer-root
 www.twitch.tv###one-tap-store-id
 www.twitch.tv##.extensions-dock__dock
+www.twitch.tv##.extensions-dock__layout
 www.twitch.tv##.chat-input
 www.twitch.tv##.core-error
 www.twitch.tv##.extensions-video-overlay-size-container

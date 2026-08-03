@@ -67,6 +67,7 @@ xn--*$doc,popup,frame
 @@||www.recaptcha.net^$subdocument
 @@||challenges.cloudflare.com^$subdocument
 @@||js.stripe.com^$subdocument
+@@||checkout.paypal.com^$subdocument
 @@||b.stripecdn.com^$subdocument,domain=js.stripe.com
 @@||www.fbsbx.com^$subdocument,domain=www.facebook.com
 @@||dontplantoend-ugi-leaderboard.hf.space^$subdocument,domain=huggingface.co

@@ -14,6 +14,7 @@ www.twitch.tv##.core-error
 www.twitch.tv##.extensions-video-overlay-size-container
 www.twitch.tv##.community-highlight-stack__scroll-area--disable
 www.twitch.tv##.community-highlight-stack__backlog-card
+www.twitch.tv##.stream-info-social-panel
 www.twitch.tv##div[aria-labelledby="charity-donate-button-popover-header"]
 www.twitch.tv##div[aria-label="Support with Combos"]
 ||irc-ws.chat.twitch.tv^$websocket,domain=www.twitch.tv
